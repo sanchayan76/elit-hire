@@ -1,0 +1,88 @@
+{
+  "candidate": {
+    "id": "cand_1770368993478",
+    "full_name": "soptok",
+    "email": "kiaka@gmail.cm",
+    "phone": "6664647979",
+    "resume_text": ""
+  },
+  "result": {
+    "testId": "test_1770368993478",
+    "status": "completed",
+    "chatHistory": [
+      {
+        "role": "assistant",
+        "content": "Hello soptok, I'm your AI interviewer from ELITEHIRE. Welcome to the interview. Although your resume isn't available, I'm keen to learn about your technical expertise and problem-solving skills.\n\nLet's start with our first question. Can you describe a significant technical challenge you've encountered in a project and how you approached solving it? Please elaborate on the problem, your solution, and the final outcome."
+      },
+      {
+        "role": "user",
+        "content": "i approch it by planing and dedicating my sel into it"
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you for sharing your high-level approach. For a technical interview, we're looking for more specific details about the technical challenge itself, the specific technologies or methodologies you used, and the measurable outcomes.\n\nLet's move on to our second question.\n\nQuestion 2: In your experience, what are the key considerations when designing a scalable and maintainable software architecture? Please provide examples of design patterns or principles you've found particularly effective."
+      }
+    ],
+    "codingSubmission": {
+      "code": "function twoSum(nums, target) {\n  // Your solution here\n  \n}",
+      "length": 60,
+      "addedContent": 0,
+      "submittedAt": "2026-02-06T09:10:41.182Z"
+    },
+    "codingScore": 0,
+    "penaltyScore": 0,
+    "tabSwitches": 0,
+    "faceWarnings": 0,
+    "finalScore": 20,
+    "completedAt": "2026-02-06T09:10:41.182Z",
+    "evaluationStatus": "completed",
+    "aiEvaluation": {
+      "decision": "NO HIRE",
+      "suggested_role": "No suitable role identified",
+      "strengths": [
+        "Maintained integrity with no proctoring violations"
+      ],
+      "weaknesses": [
+        "Complete failure to provide any functional code in the coding assessment",
+        "Extremely poor communication skills, providing vague and uninformative responses",
+        "Lack of technical depth and inability to elaborate on past technical challenges or design principles"
+      ],
+      "improvements": [
+        "Develop fundamental coding skills and practice problem-solving rigorously to meet basic technical requirements.",
+        "Learn to articulate technical concepts, project details, and problem-solving approaches with specific examples.",
+        "Prepare thoroughly for technical interviews by researching common questions and practicing structured, detailed answers."
+      ],
+      "psychometric_traits": {
+        "technical_depth": 0,
+        "problem_solving": 0,
+        "communication": 0,
+        "adaptability": 10,
+        "integrity": 100
+      },
+      "reasoning": "The candidate received a 0 in the coding assessment, submitting an empty function, which is a critical failure. Their interview response was extremely vague, lacking any technical depth or specific examples, and they failed to engage with the second question. While integrity was maintained with no proctoring violations, the complete absence of technical demonstration and severe lack of cognitive depth and communication skills unequivocally place this candidate below the required hiring bar."
+    },
+    "suggestedRole": "No suitable role identified",
+    "strengths": [
+      "Maintained integrity with no proctoring violations"
+    ],
+    "weaknesses": [
+      "Complete failure to provide any functional code in the coding assessment",
+      "Extremely poor communication skills, providing vague and uninformative responses",
+      "Lack of technical depth and inability to elaborate on past technical challenges or design principles"
+    ],
+    "improvements": [
+      "Develop fundamental coding skills and practice problem-solving rigorously to meet basic technical requirements.",
+      "Learn to articulate technical concepts, project details, and problem-solving approaches with specific examples.",
+      "Prepare thoroughly for technical interviews by researching common questions and practicing structured, detailed answers."
+    ],
+    "psychometric_traits": {
+      "technical_depth": 0,
+      "problem_solving": 0,
+      "communication": 0,
+      "adaptability": 10,
+      "integrity": 100
+    },
+    "decision": "NO HIRE",
+    "reasoning": "The candidate received a 0 in the coding assessment, submitting an empty function, which is a critical failure. Their interview response was extremely vague, lacking any technical depth or specific examples, and they failed to engage with the second question. While integrity was maintained with no proctoring violations, the complete absence of technical demonstration and severe lack of cognitive depth and communication skills unequivocally place this candidate below the required hiring bar."
+  }
+}

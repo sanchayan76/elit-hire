@@ -1,0 +1,40 @@
+{
+  "candidate": {
+    "id": "cand_1770369305353",
+    "full_name": "pritaika",
+    "email": "pritkaagrawal07@gmail.com",
+    "phone": "5442656566406060",
+    "resume_text": ""
+  },
+  "result": {
+    "testId": "test_1770369305353",
+    "status": "completed",
+    "chatHistory": [
+      {
+        "role": "assistant",
+        "content": "Hello pritaika, I'm your AI interviewer from ELITEHIRE. I'll be guiding you through a professional and rigorous technical interview today. We have exactly five questions, and I'll ask them one at a time.\n\nLet's begin with your first question:\n\nCan you describe a significant technical challenge you'"
+      },
+      {
+        "role": "user",
+        "content": "I faced scaling an API under heavy load; optimized queries, added caching, and refactored async flows—cut latency significantly and stabilized peak traffic"
+      },
+      {
+        "role": "assistant",
+        "content": "That's an excellent demonstration of problem-solving.\n\nFor your second question: Building on your experience with adding caching, what specific caching strategies did you implement, and how did you measure their effectiveness in reducing latency and stabilizing peak traffic?"
+      }
+    ],
+    "codingSubmission": {
+      "code": "function twoSum(nums, target) {\n  const map = new Map();\n\n  for (let i = 0; i < nums.length; i++) {\n    const complement = target - nums[i];\n    if (map.has(complement)) {\n      return [map.get(complement), i];\n    }\n    map.set(nums[i], i);\n  }\n}\n",
+      "length": 247,
+      "addedContent": 187,
+      "submittedAt": "2026-02-06T09:15:57.873Z"
+    },
+    "codingScore": 100,
+    "penaltyScore": 30,
+    "tabSwitches": 2,
+    "faceWarnings": 0,
+    "finalScore": 70,
+    "completedAt": "2026-02-06T09:15:57.873Z",
+    "evaluationStatus": "processing"
+  }
+}

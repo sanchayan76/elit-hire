@@ -1,0 +1,36 @@
+{
+  "candidate": {
+    "id": "cand_1770370918988",
+    "full_name": "somia",
+    "email": "abelsomi69@gmail.com",
+    "phone": "545466466",
+    "resume_text": "Haritha   Machineni  Hyderabad   |   +91-9036141328   |   machineniharitha22@gmail.com   |   Linkedin  PROFESSIONAL   SUMMARY  Experienced   Systems   Engineer   with   4   years   6   months   of   success   designing,   implementing,   and   optimizing   complex   IT  infrastructures. Proficient   in   system   administration,   network   configuration,   and   troubleshooting   to   enhance   system   reliability  and   performance.  TECHNICAL   SKILLS  Operating   Systems   :   Linux   (RedHat,   CentOS,   Ubuntu),   IBM   AIX(Unix),   Windows   Server  Virtualization   :   VMware   vSphere,   Hyper-V  Networking   :   TCP/IP,   DNS,   DHCP,SSH,SFTP,SCP  Storage :   LVM   (XFS   and   EXT4,   NFS   )  Cloud   Services   :   Microsoft   Azure  Configuration   Management/Automation   :   Ansible  EXPERIENCE  Systems   Engineer   |   Tata   Consultancy   Services,   Hyderabad   April   2023   –   Present  –   Having   extensive   experience   or   Proficient   in,   creating   and   resizing   the   partitions   by   using   LVM.  –   Managed   RedHat/   AIX   servers   ,   including   package   management,   user   administration,   and   service   configuration.  –   Installing   and   administrating   the   packages   using   RPM   and   YUM   tools.  –   Package   Management   –   Installation,   Upgradation,   Verification   and   troubleshooting   of   RPM   packages.  –   Linux   User   Administration   and   Process   management.  –   Collaborating   with   application   and   database   teams   to   perform   monthly   server   reboots   and   patching   according   to   client  requirements.  –   Automated   configuration   of   50+   Linux   servers   using   Ansible   ,   ensuring   consistency   and   reducing   manual   errors.  –   Launched   and   configured   various   AWS   EC2   instance   types   (compute/memory/storage-optimized)   to   meet   specific   workload  requirements.  –   Handling   tickets   using   Tools   Service   Now.  –   Creating   and   Managing   Swap   Space.  –   RHEL   5,6   and   7   Linux   experience.  –   Configuring   server   configuration   files   based   on   the   application   or   user   requirement.  Systems   Engineer   |   IBM,   Bangalore   August   2019   –   February   2023  –   Implemented   security   measures,   including   patch   management,   endpoint   protection,   and   firewall   configurations,   to  safeguard   systems   against   cyber   threats.  –   Conducted   regular   system   audits   and   performance   monitoring   to   identify   and   address   potential   issues   proactively.  –   Collaborated   with   cross-functional   teams   to   develop   and   implement   disaster   recovery   plans   and   ensure   business  continuity.  –   Monitoring   system   performance   issues   like   Memory,   CPU,   and   Disk   Utilization   by   using   monitoring   tools.  EDUCATION  Jawaharlal   Nehru   Technological   University   Master   of   Business   Administration   (MBA)   |   Anantapur,   AP,   India   2016   –   2018\nCertifications  Red   Hat   Certified   Engineer   (RHCE)   |   Red   Hat   2019\n"
+  },
+  "result": {
+    "testId": "test_1770370918988",
+    "status": "completed",
+    "chatHistory": [
+      {
+        "role": "assistant",
+        "content": "Hello Haritha, my name is [Your Name/AI Interviewer] and I'm an AI interviewer from ELITEHIRE. I'll be conducting your technical interview today. We'll go through 5 questions, one at a time, to understand your expertise better.\n\nTo begin, your resume highlights extensive experience with Logical Volume Management (LVM), including creating and resizing partitions. Can you walk me through a scenario where you had to extend a filesystem on a production server using LVM, detailing the steps you took and any precautions you implemented to ensure data integrity and minimize downtime?"
+      },
+      {
+        "role": "user",
+        "content": "i waold asnwer that later"
+      }
+    ],
+    "codingSubmission": {
+      "code": "function twoSum(nums, target) {\n  // Your solution here\n  \n}",
+      "length": 60,
+      "addedContent": 0,
+      "submittedAt": "2026-02-06T09:42:26.848Z"
+    },
+    "codingScore": 0,
+    "penaltyScore": 10,
+    "tabSwitches": 0,
+    "faceWarnings": 1,
+    "finalScore": 0,
+    "completedAt": "2026-02-06T09:42:26.848Z",
+    "evaluationStatus": "processing"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "candidate": {
+    "id": "cand_1770403083478",
+    "full_name": "tiya",
+    "email": "chakrabortytiyasha310@gmail.com",
+    "phone": "654642642",
+    "resume_text": "A B O U T   M E   :-  O B J E C T I V E  To work for an organization which provides me the opportunity  to improve my skills and knowledge to growth along with the  organization objective.  +91 974-891-3007  chakrabortytiyasha310@gmail.com  A - 4 9 P u r b a y a n ,A - 5 0 0 H .B  To w n ,K a t h g h o la ,S o d e p u r ,  Ko lka t a   - 70 0 110  S t a t e : W e s t B e n g a l • C o u n t ry : In d ia  S K I L L S  Teamwork,Time management  Staining techniques,Blood smear  preparation  Knowledge of Aseptic Techniques  and Sterilization methods  Strictly follows Good Lab Practices  Microbial Culture, ID, Enumeration  L A N G U A G E  English  Bengali  Hindi  E D U C A T I O N  St.Xavier's Institution,Panihati   2021 - 2022  ICSE Class X   -   95.2 %  Sudhir Memorial Institute,Doltala  CBSE Class XII   -   83.5 %  2023 - 2024  Fergusson Autonomous College Pune  BSc Microbiology SGPA for 1st Semester=9.0  BSc Microbiology SGPA for 2nd Semester=9.27  CGPA total (1st Year)=9.14  CGPA end 3rd semester- 9.18  Pursuing  Field of Interests  •   General Microbiology with a growing interest in Bacteriology  •   Broad interest in exploring Clinical Microbiology and Antibiotic resistivity  Enthusiastic   about   PCR-based diagnostics, advanced  microbial identification techniques  •   In-hand haematological techniques and other modern lab procedures  Achievements  •   Appeared in NEET examination  •   AIR 24,680 in IAT (IISER Aptitude Test)  •   Received   Certificate   of   Appreciation   as   Mentoring   head  student   representative   at   Department   of   Microbiology,FC  Pune  Curricular Activities  •   Trained   in   Hindustani   classical   music   from   P a d ma   Bhushan  Pt.Ajoy Chakraborty  •   Connected   to SOEC(Social   Outreach   and   Enabling Centre)at   FC  Pune:Raising   awareness   of   society,   environment,   underprivileged  children and women  •   Cohort Teacher at Shikshanganga Foundation  Digital art and Hand   painting  •   Photography  Films afficiando  Strength & Hobbies  •   Hardworking  Determined  •   Curious and creative  Quick learner  Friendly  •   Disciplined  •   Microscopy   Enthusiast: Exploring   microscoping   organisms   in  environmental samples in free time  •   Reading Journals  Blogging research papers  D E C L A R A T I O N  I hereby declare   that the above   furnished information is true to the  best   of   my   knowledge   and   that   I   will   be   held   responsible   for   any  deviation from them at a later stage.  Date   : 04 February 2026  Place   : Kolkata   (Tiyasha Chakraborty )  TIYASHA  CHAKRABORTY  B.Sc Microbiology  P E R S O N A L   D E T A I L S  Father's Name: Kausik Chakraborty  Mother's Name: Silpi Chakraborty  Blood Type: B Rh positive  Gender : Female  Marital Status : Unmarried  DOB : 28/8/2004  C O N T A C T\n"
+  },
+  "result": {
+    "testId": "test_1770403083478",
+    "status": "completed",
+    "chatHistory": [
+      {
+        "role": "assistant",
+        "content": "Hello Tiya, I'm your AI interviewer from ELITEHIRE. It's a pleasure to connect with you today.\n\nYour resume indicates a strong interest in PCR-based diagnostics and advanced microbial identification techniques. Could you elaborate on what specifically draws you to these areas and perhaps share any experiences, even theoretical or lab-based during your studies, that have deepened this interest?"
+      },
+      {
+        "role": "user",
+        "content": "i cant "
+      },
+      {
+        "role": "assistant",
+        "content": "No problem at all, Tiya. Let's try to break it down.\n\nCould you perhaps tell me, even theoretically, what aspects of PCR-"
+      },
+      {
+        "role": "user",
+        "content": "its used for gean amplification"
+      },
+      {
+        "role": "assistant",
+        "content": "That's correct, Tiya. PCR is indeed fundamental for gene amplification.\n\nBuilding on that, how do you see this capability of gene amplification being particularly valuable or interesting in the context of microbial diagnostics or advanced microbial identification techniques, which you mentioned as areas of interest?"
+      }
+    ],
+    "codingSubmission": {
+      "code": "function twoSum(nums, target) {\n  // Your solution here\n  \n}",
+      "length": 60,
+      "addedContent": 0,
+      "submittedAt": "2026-02-06T18:39:17.261Z"
+    },
+    "codingScore": 0,
+    "penaltyScore": 0,
+    "tabSwitches": 0,
+    "faceWarnings": 0,
+    "finalScore": 21,
+    "completedAt": "2026-02-06T18:39:17.261Z",
+    "evaluationStatus": "completed",
+    "aiEvaluation": {
+      "decision": "NO HIRE",
+      "suggested_role": "None - candidate lacks foundational skills for any software engineering position.",
+      "strengths": [
+        "High integrity during the assessment (no proctoring violations)."
+      ],
+      "weaknesses": [
+        "Complete inability to solve the coding challenge.",
+        "Severe lack of technical depth and understanding in stated areas of interest (PCR-based diagnostics).",
+        "Extremely poor and uncommunicative responses during the technical interview.",
+        "Absence of any relevant software development skills or experience."
+      ],
+      "improvements": [
+        "Acquire foundational programming knowledge and problem-solving skills.",
+        "Develop the ability to articulate technical concepts clearly and elaborately.",
+        "Gain a deeper and more comprehensive understanding of scientific concepts listed as interests.",
+        "Seek roles that align with academic background in Microbiology if not pursuing software development."
+      ],
+      "psychometric_traits": {
+        "technical_depth": 0,
+        "problem_solving": 0,
+        "communication": 5,
+        "adaptability": 0,
+        "integrity": 100
+      },
+      "reasoning": "The candidate submitted an empty solution for the coding challenge, resulting in a 0% score, which immediately fails the technical bar for any software role. During the interview, the candidate demonstrated a severe lack of technical depth and communication skills, providing only rudimentary and prompted answers to questions about their stated interests. While integrity was flawless, the complete absence of coding ability and profound deficiency in technical understanding and articulation necessitate a 'NO HIRE' decision."
+    },
+    "suggestedRole": "None - candidate lacks foundational skills for any software engineering position.",
+    "strengths": [
+      "High integrity during the assessment (no proctoring violations)."
+    ],
+    "weaknesses": [
+      "Complete inability to solve the coding challenge.",
+      "Severe lack of technical depth and understanding in stated areas of interest (PCR-based diagnostics).",
+      "Extremely poor and uncommunicative responses during the technical interview.",
+      "Absence of any relevant software development skills or experience."
+    ],
+    "improvements": [
+      "Acquire foundational programming knowledge and problem-solving skills.",
+      "Develop the ability to articulate technical concepts clearly and elaborately.",
+      "Gain a deeper and more comprehensive understanding of scientific concepts listed as interests.",
+      "Seek roles that align with academic background in Microbiology if not pursuing software development."
+    ],
+    "psychometric_traits": {
+      "technical_depth": 0,
+      "problem_solving": 0,
+      "communication": 5,
+      "adaptability": 0,
+      "integrity": 100
+    },
+    "decision": "NO HIRE",
+    "reasoning": "The candidate submitted an empty solution for the coding challenge, resulting in a 0% score, which immediately fails the technical bar for any software role. During the interview, the candidate demonstrated a severe lack of technical depth and communication skills, providing only rudimentary and prompted answers to questions about their stated interests. While integrity was flawless, the complete absence of coding ability and profound deficiency in technical understanding and articulation necessitate a 'NO HIRE' decision."
+  }
+}

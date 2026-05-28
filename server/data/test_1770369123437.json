@@ -1,0 +1,56 @@
+{
+  "candidate": {
+    "id": "cand_1770369123437",
+    "full_name": "Sanchayan",
+    "email": "sanchayanghosh2017@gmail.com",
+    "phone": "448248252",
+    "resume_text": ""
+  },
+  "result": {
+    "testId": "test_1770369123437",
+    "status": "completed",
+    "chatHistory": [
+      {
+        "role": "assistant",
+        "content": "Hello Sanchayan, I'm your AI interviewer from ELITEHIRE. Welcome to your technical interview. While we don't have your resume"
+      },
+      {
+        "role": "user",
+        "content": "why?"
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you for asking. The ELITEHIRE platform did not provide your resume for this session. Therefore, I will be asking general technical questions to assess your skills and experience.\n\nLet's begin with our first question.\n\n**Question 1:** Can you describe a challenging technical problem you've faced in a previous role and how you approached solving it? What was the outcome?"
+      },
+      {
+        "role": "user",
+        "content": "I faced inconsistent data breaking backend APIs. I traced logs, isolated edge cases, refactored validation logic, and added tests—resulting in stable deployments and fewer production bugs."
+      },
+      {
+        "role": "assistant",
+        "content": "That's a clear and effective approach to a common problem. It highlights strong debugging and refactoring skills.\n\n**Question 2:** In your experience, what are the key considerations when designing a scalable and maintainable API? Can you give an example of a design pattern or principle you'd apply and why?"
+      },
+      {
+        "role": "user",
+        "content": "Key considerations include clear contracts, versioning, statelessness, and error handling. I apply MVC and SOLID principles to keep APIs modular, testable, and scalable."
+      },
+      {
+        "role": "assistant",
+        "content": "That's a solid foundation for API design. Applying MVC and SOLID principles indeed promotes modularity and maintainability.\n\n**Question 3:** You mentioned statelessness and scalability for APIs. When dealing with high-volume data processing or real-time requirements, what strategies or technologies would you consider to ensure both performance and data consistency across distributed services?"
+      }
+    ],
+    "codingSubmission": {
+      "code": "function twoSum(nums, target) {\n  const map = new Map();\n\n  for (let i = 0; i < nums.length; i++) {\n    const need = target - nums[i];\n    if (map.has(need)) {\n      return [map.get(need), i];\n    }\n    map.set(nums[i], i);\n  }\n}\n",
+      "length": 229,
+      "addedContent": 169,
+      "submittedAt": "2026-02-06T09:13:42.389Z"
+    },
+    "codingScore": 100,
+    "penaltyScore": 45,
+    "tabSwitches": 3,
+    "faceWarnings": 0,
+    "finalScore": 55,
+    "completedAt": "2026-02-06T09:13:42.389Z",
+    "evaluationStatus": "processing"
+  }
+}

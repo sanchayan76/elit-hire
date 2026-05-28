@@ -1,0 +1,76 @@
+{
+  "candidate": {
+    "id": "cand_1779988618377",
+    "full_name": "sdfsf",
+    "email": "sfsefrefsv",
+    "phone": "71769288",
+    "resume_text": "MUHAMMAD ABDULLAH  Junior Developer  \u0000 \u0000 92 \u0000   3442254859   as0950507@gmail.com  LinkedIn.com/in/i-abdullah   Github.com/iabdullahW  Gulistan e Johar Block 17, Karachi, Sindh, Pakistan  SUMMARY  I am a motivated junior developer with a strong foundation in HTML, CSS, and  JavaScript, along with modern frameworks like React.js. I bring solid programming  skills in C, C \u0000 \u0000 , and Java, gained through my university coursework. I excel in  creating responsive and user-friendly web applications, collaborating effectively with  teams, and contributing to innovative projects that drive scalability and performance.  EXPERIENCE  Junior Developer  Fast Tech  08/2024   \u0000   Present   Karachi, Sindh, Pakistan  Fast Tech is a technology company specializing in developing software solutions.  Developed responsive web applications using React.js and optimized  performance with Next.js features like server-side rendering   \u0000 SSR \u0000   and static site  generation   \u0000 SSG \u0000 .  Integrated APIs and collaborated with teams to deliver high-quality, scalable  solutions.  Mentored juniors and helped them learn basics and logic building.  Internee  Fast Tech  01/2024   \u0000   07/2024   Karachi, Sindh, Pakistan  Fast Tech is a technology company specializing in developing software solutions.  Gained a solid foundation in programming and logic building, focusing on writing  scalable and maintainable code.  Learned best practices for reducing code complexity and improving readability by  minimizing spaghetti code.  Developed a problem-solving mindset and refined skills in iterative development  processes.  EDUCATION  Bachelors in Computer Science  FUAAST  01/2024   \u0000   12/2028   Karachi  Intermediate in Pre-Engineering  GDCG  05/2021   \u0000   08/2023   Karachi  CERTIFICATION  Microsoft: Fundamentals of AI  Fundamentals of AI concepts  Microsoft: Fundamentals of Generative AI  Fundamentals of Generative AI  Microsoft: Agile approach  Agile approach  GitHub Foundations  Foundational skills for using Git and GitHub.  LANGUAGES  English  Native  Urdu  Native  STRENGTHS  Web Application Development  Adept at creating responsive, user-friendly web  applications.  Problem Solver  Passionate about problem-solving and  continuous learning.  KEY ACHIEVEMENTS  High Performer Award  Awarded 'High Performer' for exceptional  performance during my internship at Fast Tech.  Project Contributions  Successfully contributed to multiple projects,  including the development of a restaurant  ordering application and a taxi transport service.  SKILLS  Javascript   React js   Next js  Tailwind css   CSS3   HTML5   C/C \u0000 \u0000  Java   Git/Github   OOP   Firebase  Restful api   Gen Ai   Agile/Scrum  Leadership   Communication  PROJECTS  Digitelle POS/KIOSK  Digitelle App is a restaurant-based ordering application  that allows customers to order their food directly from  digital screens installed at the restaurant.  Contributed to the development of KIOSK UI.  Used redux toolkit for state management.  Daska Web  Daska Web is a complex site of CA.  Contributed to UI design and migrated TypeScript  components to Javascript.  Integrated the email functionality.  Vantage CRM  Vantage is All-in-one Solution Website.  Contributed in making UI components.  Implemented User Freindly UI experience.  Integrated responsiveness and slick functionality in  UI.  www.enhancv.com   Powered by  •  •  •  •  •  •  •  •  •  •  •  •  •  E    q   q      G\n"
+  },
+  "result": {
+    "testId": "test_1779988618377",
+    "status": "completed",
+    "chatHistory": [
+      {
+        "role": "assistant",
+        "content": "Hello Muhammad, I'm your AI interviewer from ELITEHIRE AI. Welcome to your technical interview. I've reviewed your resume and I'm impressed with your background in web development and programming. We'll be going through 5 questions today, one at a time, to delve deeper into your skills and experience.\n\nTo start, in your current role as a Junior Developer at Fast Tech, you mentioned optimizing performance with Next.js features like Server-Side Rendering (SSR) and Static Site Generation (SSG). Could you elaborate on a specific project where you utilized either SSR or SSG, and explain the problem it solved for that particular application?"
+      }
+    ],
+    "codingSubmission": {
+      "code": "function twoSum(nums, target) {\n  // Your solution here\n  \n}",
+      "length": 60,
+      "addedContent": 0,
+      "submittedAt": "2026-05-28T17:17:22.700Z"
+    },
+    "codingScore": 0,
+    "penaltyScore": 10,
+    "tabSwitches": 0,
+    "faceWarnings": 1,
+    "finalScore": 17,
+    "completedAt": "2026-05-28T17:17:22.700Z",
+    "evaluationStatus": "completed",
+    "aiEvaluation": {
+      "decision": "NO HIRE",
+      "suggested_role": "Not Applicable",
+      "strengths": [],
+      "weaknesses": [
+        "Complete failure to attempt the coding challenge",
+        "Absence of any responses in the technical interview",
+        "Inability to demonstrate fundamental technical skills or problem-solving abilities"
+      ],
+      "improvements": [
+        "Must attempt and complete coding challenges to demonstrate technical proficiency",
+        "Needs to actively participate in and answer technical interview questions",
+        "Focus on demonstrating foundational programming and problem-solving concepts"
+      ],
+      "psychometric_traits": {
+        "technical_depth": 0,
+        "problem_solving": 0,
+        "communication": 0,
+        "adaptability": 0,
+        "integrity": 85
+      },
+      "reasoning": "The candidate submitted an empty solution for the coding challenge, resulting in a critical score of 0 and failing the primary technical indicator. Furthermore, there were no recorded responses for the technical interview, indicating a complete lack of engagement or ability to answer questions. While proctoring violations were minor, the absolute absence of any demonstrable technical skill or interview participation leads to an unequivocal 'NO HIRE' decision, as the candidate failed to meet even the most basic assessment requirements."
+    },
+    "suggestedRole": "Not Applicable",
+    "strengths": [],
+    "weaknesses": [
+      "Complete failure to attempt the coding challenge",
+      "Absence of any responses in the technical interview",
+      "Inability to demonstrate fundamental technical skills or problem-solving abilities"
+    ],
+    "improvements": [
+      "Must attempt and complete coding challenges to demonstrate technical proficiency",
+      "Needs to actively participate in and answer technical interview questions",
+      "Focus on demonstrating foundational programming and problem-solving concepts"
+    ],
+    "psychometric_traits": {
+      "technical_depth": 0,
+      "problem_solving": 0,
+      "communication": 0,
+      "adaptability": 0,
+      "integrity": 85
+    },
+    "decision": "NO HIRE",
+    "reasoning": "The candidate submitted an empty solution for the coding challenge, resulting in a critical score of 0 and failing the primary technical indicator. Furthermore, there were no recorded responses for the technical interview, indicating a complete lack of engagement or ability to answer questions. While proctoring violations were minor, the absolute absence of any demonstrable technical skill or interview participation leads to an unequivocal 'NO HIRE' decision, as the candidate failed to meet even the most basic assessment requirements."
+  }
+}

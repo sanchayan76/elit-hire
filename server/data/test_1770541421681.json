@@ -1,0 +1,96 @@
+{
+  "candidate": {
+    "id": "cand_1770541421681",
+    "full_name": "Sanchayan",
+    "email": "sanchayanghosh2017@gmail.com",
+    "phone": "9330621169",
+    "resume_text": "Anil Kumar  Email: anil.kumar@example.com Phone: +91-9876543210 Location: Pune, India  Summary  Motivated computer science student with strong interest in Python, data structures, and backend development. Passionate about building real-world applications.  Skills  • Python • Data Structures and Algorithms • Flask & FastAPI • SQL & MongoDB • Git & GitHub  Projects  Resume Analyzer System  Built a Python-based system to analyze resumes and generate assessments using AI.  Education  Bachelor of Technology in Computer Science XYZ Institute of Technology (2022–2026)  Certifications  • Python for Everybody – Coursera • Introduction to AI – NPTEL\n"
+  },
+  "result": {
+    "testId": "test_1770541421681",
+    "status": "completed",
+    "chatHistory": [
+      {
+        "role": "assistant",
+        "content": "Hello Sanchayan, I'm an AI interviewer from ELITEHIRE. Thank you for joining us today. We'll be discussing your background and experience based on your resume.\n\nLet's start with your \"Resume Analyzer System\" project. You mentioned using AI to generate assessments. Could you elaborate on the specific AI techniques or libraries you employed in this project and how they contributed to the assessment generation process?"
+      },
+      {
+        "role": "user",
+        "content": "i use lang ccghain fgesdagfbjkaf"
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you for that. It sounds like you might be referring to LangChain, which is a powerful library for developing applications with large language models. Could you elaborate a bit more on how you integrated LangChain, or any other specific AI techniques, into your Resume Analyzer System to generate those assessments?\n\nBuilding on your experience with this project, your resume also lists Flask & FastAPI. Which of these frameworks did you primarily use for the backend of your Resume Analyzer System, and what was your reasoning behind that choice?"
+      },
+      {
+        "role": "user",
+        "content": "asfdasf"
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you for your response.\n\nMoving on, your resume highlights \"Data Structures and Algorithms\" as a core skill. Can you describe a specific instance, either from a project or a problem you've tackled, where your choice of a particular data structure or algorithm significantly optimized the performance or efficiency of your solution?"
+      }
+    ],
+    "codingSubmission": {
+      "code": "function twoSum(nums, target) {\n  // Your solution here\n  \n}",
+      "length": 60,
+      "addedContent": 0,
+      "submittedAt": "2026-02-08T09:05:32.669Z"
+    },
+    "codingScore": 0,
+    "penaltyScore": 20,
+    "tabSwitches": 0,
+    "faceWarnings": 2,
+    "finalScore": 12,
+    "completedAt": "2026-02-08T09:05:32.669Z",
+    "evaluationStatus": "completed",
+    "aiEvaluation": {
+      "decision": "NO HIRE",
+      "suggested_role": "N/A - Insufficient Data",
+      "strengths": [],
+      "weaknesses": [
+        "Complete failure to attempt coding challenge",
+        "Inability to articulate technical concepts or provide coherent answers",
+        "Extremely poor communication skills during the interview",
+        "Lack of engagement and preparedness for the assessment"
+      ],
+      "improvements": [
+        "Must develop foundational coding skills and problem-solving abilities.",
+        "Needs significant practice in technical communication and articulating ideas clearly.",
+        "Should ensure full focus and presence during any future assessments, addressing proctoring warnings.",
+        "Review basic interview etiquette and preparation strategies."
+      ],
+      "psychometric_traits": {
+        "technical_depth": 0,
+        "problem_solving": 0,
+        "communication": 0,
+        "adaptability": 0,
+        "integrity": 60
+      },
+      "reasoning": "The candidate demonstrated a complete failure to meet the technical bar. The coding submission was entirely empty, resulting in a 0 score. Interview responses were unintelligible and nonsensical, indicating a severe lack of communication and technical depth. Despite only minor proctoring issues, the core technical and communication failures are absolute and non-negotiable, rendering a 'NO HIRE' decision unavoidable."
+    },
+    "suggestedRole": "N/A - Insufficient Data",
+    "strengths": [],
+    "weaknesses": [
+      "Complete failure to attempt coding challenge",
+      "Inability to articulate technical concepts or provide coherent answers",
+      "Extremely poor communication skills during the interview",
+      "Lack of engagement and preparedness for the assessment"
+    ],
+    "improvements": [
+      "Must develop foundational coding skills and problem-solving abilities.",
+      "Needs significant practice in technical communication and articulating ideas clearly.",
+      "Should ensure full focus and presence during any future assessments, addressing proctoring warnings.",
+      "Review basic interview etiquette and preparation strategies."
+    ],
+    "psychometric_traits": {
+      "technical_depth": 0,
+      "problem_solving": 0,
+      "communication": 0,
+      "adaptability": 0,
+      "integrity": 60
+    },
+    "decision": "NO HIRE",
+    "reasoning": "The candidate demonstrated a complete failure to meet the technical bar. The coding submission was entirely empty, resulting in a 0 score. Interview responses were unintelligible and nonsensical, indicating a severe lack of communication and technical depth. Despite only minor proctoring issues, the core technical and communication failures are absolute and non-negotiable, rendering a 'NO HIRE' decision unavoidable."
+  }
+}
